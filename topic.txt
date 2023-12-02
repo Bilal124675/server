@@ -1,0 +1,12 @@
+node js
+
+file system
+get route+
+post route+
+post get+
+middleware
+mongoDb intro
+MongDb insert,update,delete,read
+file uploading
+file sending from server 
+server hostiing
