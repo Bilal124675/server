@@ -35,7 +35,7 @@ route.get('/data', async(req,res)=>{
      
 
       
-    })
+    }) 
     
 
 
